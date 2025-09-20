@@ -14,6 +14,7 @@ Resources for this class:
 * [SuperCollider - Examples](https://supercollider.github.io/examples)
 * [SuperCollider One Liners](https://w2.mat.ucsb.edu/l.putnam/sc3one/index.html)
 * [Tips](/tips.md)
+* [SynthDef and Synth Tutorial](/synth-tutorial.md)
 
 # Notes on Resources
 
