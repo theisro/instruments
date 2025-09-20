@@ -13,6 +13,7 @@ Resources for this class:
 * [Sccode - Examples](https://sccode.org/)
 * [SuperCollider - Examples](https://supercollider.github.io/examples)
 * [SuperCollider One Liners](https://w2.mat.ucsb.edu/l.putnam/sc3one/index.html)
+* [Tips](/tips.md)
 
 # Notes on Resources
 
