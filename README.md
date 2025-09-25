@@ -22,3 +22,11 @@ The Nick Collin's Tutorial is based on an older version of SuperCollider, so you
 pasting code from there.
 
 
+# Course Journal
+
+## Day 4 - 24 September 2025
+* Went through the materials in this repository, explaining the SynthDef and Synth tutorials. 
+* Talked a little further about Envelopes used to shape sound. Talked about ADSR and showed what sustain means and how to 
+play with sustain as a parameter to a note.
+* Students continued to work on the 5 sound sketches and showed their work to each other.
+* Arun worked with the students to help them with their sketches.
