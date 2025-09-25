@@ -15,6 +15,7 @@ Resources for this class:
 * [SuperCollider One Liners](https://w2.mat.ucsb.edu/l.putnam/sc3one/index.html)
 * [Tips](/tips.md)
 * [SynthDef and Synth Tutorial](/synth-tutorial.md)
+* [SC3 Plugins](https://supercollider.github.io/sc3-plugins/)
 
 # Notes on Resources
 
